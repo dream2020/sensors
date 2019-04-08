@@ -1,14 +1,17 @@
 # DREAM sensors
 
-![DREAM Logo]((images/dream.png))
+![DREAM Logo](images/dream.png)
 
-_DREAM sensors_ is an integrated sensor system developed within the European research project [DREAM: Development of Robot-Enhanced therapy for children with AutisM spectrum disorders](http://www.dream2020.eu), implemented in C++. The functionality and theory behind this project is presented in detail in several academic publications, please see the list of references below.
+_DREAM sensors_ is an integrated sensor system developed within the European research project [DREAM: Development of Robot-Enhanced therapy for children with AutisM spectrum disorders](http://www.dream2020.eu).
+This software is part of a complete system for Robot Enhanced Therapy (RET), available at [github.com/dream2020/DREAM](https://github.com/dream2020/DREAM).
+
+The functionality and theory behind _DREAM sensors_ is presented in detail in several academic publications, please see the list of references below.
 
 ## Licence
 
 Unless otherwise specified, all software developed within the _DREAM sensors_ project is Open Source under [GPLv3 licence](https://www.gnu.org/licenses/gpl.txt). Note that this project depends on third party software that are covered under their own licences. Please check the source files for more details.
 
-![GPLv3](/images/gpl3.png)
+![GPLv3](images/GNU-GPL3.png)
 
 ## References
 
